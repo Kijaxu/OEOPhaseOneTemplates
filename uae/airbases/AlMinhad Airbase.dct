@@ -1,0 +1,8 @@
+objtype = "airbase"
+name = "Al Minhad AFB"
+coalition = 2
+subordinates = {"AlMinhadAirbaseDefenses"}
+desc = "Al Minhad Airbase"
+recoverytype = "land"
+takeofftype = "runway"
+cost = 20

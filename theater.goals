@@ -1,13 +1,18 @@
-theatergoals = {
-	["bluewin"] = {
-		["primary"]       = 100,
-		["secondary"]     = 50,
-		["attritionrate"] = 0,
-	},
+time = 43200 	-- 12 hours in seconds
 
-	["redwin"] = {
-		["primary"]       = 0,
-		["secondary"]     = 0,
-		["attritionrate"] = 2,
-	},
+blue = {
+	flag 	= 45,
+	tickets = 100,
+	difficulty = "normal",
+}
+
+neutral = {
+	flag 	= 20,
+	tickets = 0,
+}
+
+red = {
+	flag 	= 60,
+	tickets = 200,
+	difficulty = "normal",
 }
