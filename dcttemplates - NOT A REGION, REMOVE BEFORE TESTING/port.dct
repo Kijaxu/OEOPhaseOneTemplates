@@ -1,2 +1,3 @@
 objtype = "port"
-intel = 5
+intel = 4
+cost = 2
