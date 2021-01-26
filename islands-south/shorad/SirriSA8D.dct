@@ -1,8 +1,2 @@
-metadata = {
-	["rank"]     = 1,
-	["objtype"]  = "shorad",
-	["exclusion"] = "sirriB",
-	["base"]     = nil,
-	["intel"]	 = 1,
-	["alwaysSpawn"] = false,
-}
+objtype  = "shorad"
+exclusion = "SirriB"
