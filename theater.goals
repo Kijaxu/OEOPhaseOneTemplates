@@ -1,8 +1,6 @@
-time = 43200 	-- 12 hours in seconds
-
 blue = {
 	flag 	= 45,
-	tickets = 100,
+	tickets = 50,
 	difficulty = "normal",
 }
 
@@ -13,6 +11,8 @@ neutral = {
 
 red = {
 	flag 	= 60,
-	tickets = 200,
-	difficulty = "normal",
+	tickets = 10000,
+	player_cost = 0,
+	modifier_reward = 0,
+	modifier_loss = 1,
 }

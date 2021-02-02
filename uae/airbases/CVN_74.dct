@@ -1,7 +1,7 @@
 objtype = "airbase"
-name = "Stennis - airbase"
+name = "CVN-74 John C. Stennis"
 coalition = 2
-subordinates = {}
+subordinates = {"VFA83", "VF142"}
 desc = "CVN-74 John C. Stennis"
 recoverytype = "land"
 takeofftype = "runway"
